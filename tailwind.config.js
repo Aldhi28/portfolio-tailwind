@@ -6,6 +6,9 @@ module.exports = {
       padding: '16px',
     },
     extend: {
+      margin: {
+        '90px': '90px',
+      },
       colors: {
         primary: '#14b8a6',
         secondary: '#64748b',
